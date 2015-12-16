@@ -54,7 +54,7 @@
     <Compile Include="HoistingJitHelperMethod.cs" />
     <Compile Include="HoistingStatic.cs" />
     <Compile Include="HoistingTryCatchBlock.cs" />
-    <Compile Include="HoistinMath.cs" />
+    <Compile Include="HoistingMath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 
 namespace HoistingInNetExamples
 {
-    public class HoistinMath
+    public class HoistingMath
     {
         [MethodImpl(MethodImplOptions.NoInlining)]
         public double Run(int a)

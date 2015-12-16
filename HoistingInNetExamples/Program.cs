@@ -15,7 +15,7 @@ namespace HoistingInNetExamples
             new HoistingArg().Run(1);
             new HoistingManyExits().Run();
             new HoistingManyVars().Run(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
-            new HoistinMath().Run(1);
+            new HoistingMath().Run(1);
             new HoistingNotDoWhile().Run();
 
             Console.WriteLine("Finished!");
