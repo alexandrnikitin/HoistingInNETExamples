@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace HoistingInDotNetExamples
+namespace HoistingInNetExamples
 {
     public class HoistingStruct
     {

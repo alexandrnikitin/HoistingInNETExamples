@@ -7,8 +7,8 @@
     <ProjectGuid>{639069B6-9785-4882-9211-2371651A7FA5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HoistingInDotNetExamples</RootNamespace>
-    <AssemblyName>HoistingInDotNetExamples</AssemblyName>
+    <RootNamespace>HoistingInNetExamples</RootNamespace>
+    <AssemblyName>HoistingInNetExamples</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

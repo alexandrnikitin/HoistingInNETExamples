@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoistingInDotNetExamples", "HoistingInDotNetExamples\HoistingInDotNetExamples.csproj", "{639069B6-9785-4882-9211-2371651A7FA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoistingInNetExamples", "HoistingInDotNetExamples\HoistingInNetExamples.csproj", "{639069B6-9785-4882-9211-2371651A7FA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
